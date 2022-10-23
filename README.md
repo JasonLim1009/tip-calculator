@@ -1,5 +1,8 @@
 ## Tip Calculator
 
+![image](https://user-images.githubusercontent.com/107684179/197383724-beb608ad-524a-4931-8a73-bb377ba552a8.png)
+
+
 # Instructions
 
 If the bill was $150.00, split between 5 people, with 12% tip. 
